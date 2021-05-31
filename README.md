@@ -1,3 +1,4 @@
+<pre>
 # Rest-NodeJS <br />
 Neste programa foi realizado a criação de uma agenda de um petshop usando o padrão REST com NodeJS.
 
@@ -44,13 +45,13 @@ Repositorios : local resposável por armazenar o SQL
 Servicos : local resposável pelo armazenamento das APIs que serão utilizadas pelo software
   ->cliente.js : API que faz o vínculo entre cliente e um cpf gerado aleatóriamente
   
-#Como utilizar
+# Como utilizar<br />
 1.Faça o clone do projeto
 2.Vá na pasta REST-NODEJS-01 com o terminal e digite: npm install
 3.Digite : npm start
 4.Utilize o postman para testar
 
-#Tecnologias
+# Tecnologias<br />
 Node.js
  Express
  Consign
@@ -61,4 +62,4 @@ Node.js
  Mysql
  Body-parser
  Faker
- 
+</pre>
