@@ -1,7 +1,7 @@
-#Rest-NodeJS
+# Rest-NodeJS <br />
 Neste programa foi realizado a criação de uma agenda de um petshop usando o padrão REST com NodeJS.
 
-#Arquvios e explicações
+# Arquvios e explicações <br />
 Assets : pasta responsável pelo armazenamento de imagens<br />
 
 Config : configuração customizada do Express<br />
