@@ -2,11 +2,11 @@
 Neste programa foi realizado a criação de uma agenda de um petshop usando o padrão REST com NodeJS.
 
 #Arquvios e explicações
-Assets : pasta responsável pelo armazenamento de imagens
+Assets : pasta responsável pelo armazenamento de imagens<br />
 
-Config : configuração customizada do Express
+Config : configuração customizada do Express<br />
 
-Controller : resposável pela criação das rotas
+Controller : resposável pela criação das rotas<br />
  ->atendimento.js
    ->Esse arquivo cria e responde as requisições :
      ->Get:
